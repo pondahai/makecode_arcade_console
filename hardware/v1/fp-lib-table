@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "WeAct-RP2040-Pico")(type "KiCad")(uri "${KIPRJMOD}/WeAct-RP2040-Pico.pretty")(options "")(descr ""))
+  (lib (name "prj")(type "KiCad")(uri "${KIPRJMOD}")(options "")(descr ""))
+)
