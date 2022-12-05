@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# TL1100F160Q
+#
+DEF TL1100F160Q S 0 40 Y N 1 L N
+F0 "S" -200 200 50 H V L BNN
+F1 "TL1100F160Q" -200 -200 50 H V L BNN
+F2 "SW_TL1100F160Q" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "7.3mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F5 "TL1100F160Q" 0 0 50 H I L BNN "SNAPEDA_PN"
+F6 "E-Switch" 0 0 50 H I L BNN "MANUFACTURER"
+F7 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F8 "D" 0 0 50 H I L BNN "PARTREV"
+DRAW
+C 100 0 20 0 0 6 N
+P 2 0 0 6 200 0 120 0 N
+P 2 0 0 6 -200 0 -120 0 N
+C -100 0 20 0 0 6 N
+P 2 0 0 6 -100 63 0 63 N
+P 2 0 0 6 0 63 100 63 N
+P 2 0 0 6 0 63 0 138 N
+P 2 0 0 6 -200 100 -200 -100 N
+P 2 0 0 6 200 100 200 -100 N
+X ~ 1 -300 100 100 R 40 40 0 0 P 
+X ~ 2 -300 -100 100 R 40 40 0 0 P 
+X ~ 3 300 100 100 L 40 40 0 0 P 
+X ~ 4 300 -100 100 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
