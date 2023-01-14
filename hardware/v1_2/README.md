@@ -1,1 +1,1 @@
-![](mca_game_console.pdf)
+![](mca_game_console.jpg)
