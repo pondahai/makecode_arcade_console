@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "WeAct-RP2040-Pico")(type "KiCad")(uri "${KIPRJMOD}/WeAct-RP2040-Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "MIC127-140-001")(type "Legacy")(uri "${KIPRJMOD}/MIC127-140-001.lib")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "PB-002")(type "KiCad")(uri "${KIPRJMOD}/PB-002.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "TL1100F160Q")(type "Legacy")(uri "${KIPRJMOD}/TL1100F160Q.lib")(options "")(descr ""))
+  (lib (name "psp_thumbstick")(type "KiCad")(uri "${KIPRJMOD}/psp_thumbstick.kicad_sym")(options "")(descr ""))
+)
